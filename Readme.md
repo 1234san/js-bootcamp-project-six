@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Sana--Quazi)
 
-## Project 6 [Live Link]()
+## Project 6 [Live Link](https://live-class-project-six.netlify.app/)
 
 - Skills Gained in this projectSkills Gained in this project
   - Learned to decleare **Internal stylesheets** which is not a good practise.
